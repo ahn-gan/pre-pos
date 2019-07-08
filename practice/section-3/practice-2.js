@@ -11,6 +11,5 @@ function createUpdatedCollection(collectionA, objectB) {
       return item;
     });
   });
-  console.log(result);
   return result;
 }
